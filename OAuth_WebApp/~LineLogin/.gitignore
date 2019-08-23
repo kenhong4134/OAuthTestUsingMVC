@@ -1,0 +1,6 @@
+unidyna_web/unidyna_web/bin/
+unidyna_web/unidyna_web/obj/
+*.suo
+*.ide
+*.ide-shm
+*.ide-wal

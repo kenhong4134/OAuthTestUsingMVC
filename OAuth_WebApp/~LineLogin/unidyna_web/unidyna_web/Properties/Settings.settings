@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="unidyna_web.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Line_Channel_ID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1602250242</Value>
+    </Setting>
+    <Setting Name="Line_Channel_Secret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1ff62176dd2e70005b42ecc7416381c5</Value>
+    </Setting>
+    <Setting Name="Line_State_code" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Success</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
